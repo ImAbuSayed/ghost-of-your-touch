@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ghost-of-your-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ghost Of Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghost-of-your-touch/) |
+| **Get License** | [Request Licensing for Ghost Of Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghost-of-your-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `36d22626e69dd0b0fbcf408ecc05415524a4d1fbacaa7039aec1848bd3f27c85` |
 | **Timestamp** | June 06, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
