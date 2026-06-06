@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ghost-of-your-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Ghost Of Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghost-of-your-touch/) |
+| **Get License** | [License this song: Ghost Of Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghost-of-your-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still feel your fingers tracing down my spine
+> A midnight craving and a sweet red wine
+> You left a mark that I cannot erase
+> A burning heat in a quiet place
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
